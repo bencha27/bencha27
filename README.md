@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 💻 I'm an emerging full stack web developer.
+- ⭐️ My specialty is the MERN stack.
+- 📫 You can reach me at: [mrbenjamincha@gmail.com](mailto:mrbenjamincha@gmail.com)
+- 🌐 Connect with me on [LinkedIn](bit.ly/bencha-linkedin)
+- 🧑🏻‍💻 Learn more about me and my work on [my portfolio](bit.ly/bencha-portf)
+
 <!--
 **bencha27/bencha27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
