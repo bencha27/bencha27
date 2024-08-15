@@ -3,7 +3,7 @@
 - ⭐️ My specialty is the MERN stack.
 - ✉️ Reach me at: [mrbenjamincha@gmail.com](mailto:mrbenjamincha@gmail.com).
 - 🌐 Connect with me on [LinkedIn](https://bit.ly/bencha-linkedin).
-- 💼 Learn more about me and my work on [my portfolio](https://bit.ly/bencha-portf).
+- 💼 Learn more about me and my work on [my portfolio](https://bit.ly/bencha-portfolio).
 
 <!--
 **bencha27/bencha27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
